@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 32740b15-4b57-3322-7c52-c978d0fb64eb
 ---
@@ -31,20 +33,6 @@ Curriculum Information
 *   H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
 *   Can be applied toward a [Master of Science in Political Science](http://web.mit.edu/polisci/graduate/masters.html)
 *   Can be applied toward a [PhD in Political Science](http://web.mit.edu/polisci/graduate/phd.html)
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Small black chairs surround tables arranged in the shape of a rectangle.]({{< resource_file 78ad7f64-b3a5-b9b4-f966-47ed80774860 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    This course was taught in a small-sized classroom equipped with a chalkboard and a projector.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
