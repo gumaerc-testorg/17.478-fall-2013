@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the writing requirements for the
+  course and suggested paper and book review topics and questions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
