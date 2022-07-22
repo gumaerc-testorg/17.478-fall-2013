@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 17-478_stat-students
 uid: cd9cabba-75d2-feda-0f7a-ae6cf55e2082
 ---
 Image indicating course enrollment numbers.
-

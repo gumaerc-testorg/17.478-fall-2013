@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 17-478_classroom-1
 uid: 78ad7f64-b3a5-b9b4-f966-47ed80774860
 ---
 Photograph of the classroom used for the course.
-
