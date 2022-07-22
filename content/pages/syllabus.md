@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course overview and information on
+  meeting times, prerequisites, format, evaluation, and readings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ba6918f5-9f9b-8b79-c743-62fea5414410
 ---
@@ -42,7 +46,7 @@ This is a seminar. All who show up for class are expected to participate, whethe
 Evaluation
 ----------
 
-Those taking the course for credit can satisfy the requirement for written work in one of two ways: a typical class paper, or, a pair of review essays. See the [Assignments]({{< baseurl >}}/pages/assignments) section for further details.
+Those taking the course for credit can satisfy the requirement for written work in one of two ways: a typical class paper, or, a pair of review essays. See the {{% resource_link 3ae0081a-27f2-fcf8-f2d9-a0fc9d85fe6e "Assignments" %}} section for further details.
 
 Readings
 --------
@@ -61,4 +65,4 @@ Prunier, Gérard. _Darfur: A 21st Century Genocide_. 3rd ed. Cornell University 
 
 Bowden, Mark. _Black Hawk Down: A Story of Modern War_. Grove Press, 2010. ISBN: 9780802144737.
 
-For additional readings, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For additional readings, see the {{% resource_link d82e12be-e454-3fa2-fdfa-b92560d8815b "Readings" %}} section.
