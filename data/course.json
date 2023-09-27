@@ -35,8 +35,10 @@
     "website": "17-478-great-power-military-intervention-fall-2013"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "e6a17dad-93c3-4b3f-a5f6-3e3d7a26544c",
+  "site_uid": "987e299a-3f2e-4103-a98c-d171197262bf",
+  "site_short_id": "17.478-fall-2013",
   "title": "Course Metadata"
 }
