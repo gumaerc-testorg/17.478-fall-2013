@@ -2,6 +2,7 @@
 content_type: resource
 description: Photograph of the classroom used for the course.
 file: /courses/17-478-great-power-military-intervention-fall-2013/78ad7f64b3a5b9b4f96647ed80774860_17-478_classroom-1.jpg
+file_size: 15932
 file_type: image/jpeg
 image_metadata:
   caption: ''
