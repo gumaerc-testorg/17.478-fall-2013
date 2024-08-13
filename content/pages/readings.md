@@ -279,7 +279,7 @@ Freedman, Lawrence, and David Boren. "Safe Havens' for Kurds in Post-War Iraq." 
 
 Rudd, Gordon W. "[Operation Provide Comfort: Humanitarian Intervention in Northern Iraq 1991](http://www.worldcat.org/title/operation-provide-comfort-humanitarian-intervention-in-northern-iraq-1991/oclc/033145098)," Thesis (Ph.D.), Duke University, 1993.
 
-Seiple, Chris. ["The U.S. Military/NGO Relationship in Humanitarian Interventions." (PDF)](https://apps.dtic.mil/dtic/tr/fulltext/u2/a308675.pdf) Peacekeeping Institute, Center For Strategic Leadership, U.S. Army War College, 1996.
+Seiple, Chris. ["The U.S. Military/NGO Relationship in Humanitarian Interventions." (PDF)](https://apps.dtic.mil/sti/tr/pdf/ADA308675.pdf) Peacekeeping Institute, Center For Strategic Leadership, U.S. Army War College, 1996.
 
 *Somalia*
 
@@ -443,9 +443,9 @@ Walt, Vivienne. "[How Did Gaddafi Die? A Year Later, Unanswered Questions and Ba
 
 *Recommended*
 
-Bell, Anthony, and David Witter."Executive Summary." In [*The Libyan Revolution, Part 1: Roots Of Rebellion*](https://www.scribd.com/document/119862576/The-Libyan-Revolution-Part-1). Institute for the Study of War, 2011.
+Bell, Anthony, and David Witter. "Executive Summary." In [*The Libyan Revolution, Part 1: Roots Of Rebellion*. (PDF)](https://www.understandingwar.org/sites/default/files/Libya_Part1_ExecSum.pdf) Institute for the Study of War, 2011.
 
-———. "Executive Summary." In [*The Libyan Revolution, Part 2: Escalation & Intervention*](https://www.scribd.com/document/119862577/The-Libyan-Revolution-Part-2). Institute for the Study of War, 2011.
+———. "Executive Summary." In [*The Libyan Revolution, Part 2: Escalation & Intervention*. (PDF)](https://www.understandingwar.org/sites/default/files/ExecSum_Libya_Part2.pdf) Institute for the Study of War, 2011.
 
 ———. "Executive Summary." In [*The Libyan Revolution, Part 3: Stalemate & Siege*](http://archive.is/20130830195312/www.understandingwar.org/report/libyan-revolution-part-3-stalemate-siege) . Institute for the Study of War, 2011.
 
