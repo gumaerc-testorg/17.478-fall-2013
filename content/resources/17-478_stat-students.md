@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image indicating course enrollment numbers.
-file: /ol-ocw-studio-app/courses/17-478-great-power-military-intervention-fall-2013/cd9cabba75d2feda0f7aae6cf55e2082_17-478_stat-students.png
+file: /courses/17-478-great-power-military-intervention-fall-2013/cd9cabba75d2feda0f7aae6cf55e2082_17-478_stat-students.png
 file_size: 2741
 file_type: image/png
 image_metadata:
