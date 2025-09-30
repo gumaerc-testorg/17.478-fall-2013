@@ -30,8 +30,8 @@ By taking this course, students should gain a broader overall understanding of b
 ### Requirements Satisfied
 
 - H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
-- Can be applied toward a [Master of Science in Political Science](https://polisci.mit.edu/graduate/masters)
-- Can be applied toward a [PhD in Political Science](http://web.mit.edu/polisci/graduate/phd.html)
+- Can be applied toward a {{% resource_link "2b888d2a-c68e-40d5-a1c7-12ade9b0477c" "Master of Science in Political Science" %}}
+- Can be applied toward a {{% resource_link "7bb51835-aedb-4c2e-8cee-48fdff24a378" "PhD in Political Science" %}}
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
